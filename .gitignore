@@ -1,0 +1,23 @@
+# 가상환경
+venv/
+
+# 환경변수
+.env
+
+# 캐시/빌드
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 실행 파일/드라이버
+chromedriver.exe
+chromedriver-win64/
+
+# 데이터/아티팩트
+Result_crawling/
+chroma_db/
+
+# IDE
+.vscode/
+.idea/
