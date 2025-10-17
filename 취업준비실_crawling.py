@@ -13,8 +13,8 @@ import time
 # -------------------------------
 # 1️⃣ 로그인 및 페이지 이동
 # -------------------------------
-LOGIN_ID = "2215965"
-LOGIN_PW = "juchik777!"
+LOGIN_ID = "아이디"
+LOGIN_PW = "비밀번호"
 
 options = webdriver.ChromeOptions()
 options.add_argument("--start-maximized")
